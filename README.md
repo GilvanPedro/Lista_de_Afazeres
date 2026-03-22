@@ -61,9 +61,9 @@ graph LR
 1.  Crie o banco de dados e a tabela necessária executando o seguinte script SQL:
 
 ```sql
-CREATE DATABASE senai001;
+CREATE DATABASE toDoList;
 
-USE senai001;
+USE toDoList;
 
 CREATE TABLE listas (
     id INT AUTO_INCREMENT PRIMARY KEY,
